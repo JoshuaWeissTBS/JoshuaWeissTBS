@@ -4,12 +4,18 @@
 ## About Me
 I'm a passionate game developer and software engineer.
 
-- 🔭 I’m currently working on [Swift by Knight](https://joshuaweiss.itch.io/swift-by-knight)
+- 🔭 I’m currently working on an unannounced 3D multiplayer game
 - 🌱 I’m currently learning **Unreal Editor**
 - 👨‍💻 All of my projects are available at [https://www.joshuaweissportfolio.com/](https://www.joshuaweissportfolio.com/)
 - 📫 Reach me at **joshua.weiss@hotmail.com** or my [LinkedIn](https://www.linkedin.com/in/joshua-weiss-tbs/)
 
 ## Featured Projects 💻
+
+### [lith_ion](https://joshuaweiss.itch.io/lith-ion)
+![lith_ion Gameplay](https://github.com/user-attachments/assets/b2c1bca9-5d85-4817-a01e-649362c8bfee)
+
+lith_ion is a 3D shooter where you use your main power blast to explode enemies, rocket jump, and power the environment while surviving waves of enemy robots.
+This is our first game jam, made with all original art, animations, and models. Everything was made in one week during and for the Bigmode Game Jam 2025, using the Godot engine.
 
 ### [Swift by Knight](https://joshuaweiss.itch.io/swift-by-knight)
 
